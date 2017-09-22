@@ -1,0 +1,39 @@
+// Colors
+$brand-primary: #5b4681;
+$gray: #ddd;
+$light-gray: #f9f9f9;
+$dark-gray: #777;
+
+// Font sizes
+$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-size: 1.6rem;
+$large-font-size: 1.8rem;
+
+// Spacing
+$site-max-width: 50rem;
+$space: 1.4rem;
+
+// Form inputs
+$input-border-color: $gray;
+$input-spacing: 1rem;
+
+// Boxed view
+$boxed-view-overlay-bg: $gray;
+$boxed-view-bg: #fff;
+
+// Button
+$button-bg: $brand-primary;
+$button-color: #fff;
+$button-pill-color: $brand-primary;
+$button-secondary-bg: $light-gray;
+$button-secondary-color: $dark-gray;
+$button-secondary-border-color: $gray;
+
+// Header
+$header-bg: $brand-primary;
+$header-color: #fff;
+
+// Item
+$item-bg: $light-gray;
+$item-border-color: darken($item-bg, 8%);
+$item-text-color: $dark-gray;
